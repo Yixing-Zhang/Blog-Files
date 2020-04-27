@@ -1,16 +1,11 @@
 [{
-    "name": "Waiting",
-    "artist": "Vicetone Daisy, Guttridge Eric, Leva",
-    "url": "/medias/music/Vicetone_Daisy Guttridge_Eric Leva-Waiting.flac",
-    "cover": "/medias/music_cover/Waiting.jpg"
-}, {
     "name": "Fly Away",
     "artist": "TheFatRat, Anjulie",
-    "url": "/medias/music/TheFatRat_Anjulie-Fly Away.mp3",
-    "cover": "/medias/music_cover/Fly Away.jpg"
+    "url": "/medias/music/FlyAway.mp3",
+    "cover": "/medias/music_cover/FlyAway.jpg"
 }, {
     "name": "Frontier (Cargo Remix)",
     "artist": "Cargo, Vinai, SCNDL",
-    "url": "/medias/music/Cargo_Vinai_SCNDL-Frontier(Cargo Remix).mp3",
+    "url": "/medias/music/Frontier(Cargo Remix).mp3",
     "cover": "/medias/music_cover/Frontier.jpg"
 }]
